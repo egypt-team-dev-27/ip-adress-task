@@ -50,12 +50,3 @@ Your users should be able to:
 3. Implement map rendering with LeafletJS.
 4. Build the search UI for IP addresses/domains.
 5. Style the project to match the design as closely as possible.
-
----
-
-If you want, I can also generate:
-
-✅ A polished project structure
-✅ Example API call code
-✅ A starter HTML/CSS/JS template
-Just let me know!
